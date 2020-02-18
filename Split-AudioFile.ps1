@@ -37,7 +37,7 @@
 #---------------------------------------------------------[Script Parameters]------------------------------------------------------
 
 Param (
-    [Parameter(Mandatory = $true)] 
+    [Parameter(Position=0,Mandatory = $true)] 
     [string]$Path
 )
 
