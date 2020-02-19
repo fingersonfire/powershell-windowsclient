@@ -7,6 +7,7 @@ Param(
 <# 
 Orginal script by Malcolm McCaffery  
 More info at the http://chentiangemalc.wordpress.com/2014/07/02/importing-reg-files-into-group-policy-preferences/
+https://www.leeejeffries.com/import-reg-files-into-microsoft-group-policy/
 #>
 
 function Convert-RegEscapeCodes
